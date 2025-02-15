@@ -1,0 +1,26 @@
+[0.470s] Invoking command in '/home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2': PYTHONPATH=/home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2/build --no-deps symlink_data
+[0.656s] running develop
+[0.764s] running egg_info
+[0.765s] creating urdf_tutorial_r2d2.egg-info
+[0.765s] writing urdf_tutorial_r2d2.egg-info/PKG-INFO
+[0.765s] writing dependency_links to urdf_tutorial_r2d2.egg-info/dependency_links.txt
+[0.765s] writing entry points to urdf_tutorial_r2d2.egg-info/entry_points.txt
+[0.765s] writing requirements to urdf_tutorial_r2d2.egg-info/requires.txt
+[0.765s] writing top-level names to urdf_tutorial_r2d2.egg-info/top_level.txt
+[0.765s] writing manifest file 'urdf_tutorial_r2d2.egg-info/SOURCES.txt'
+[0.770s] reading manifest file 'urdf_tutorial_r2d2.egg-info/SOURCES.txt'
+[0.770s] writing manifest file 'urdf_tutorial_r2d2.egg-info/SOURCES.txt'
+[0.771s] running build_ext
+[0.771s] Creating /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/lib/python3.10/site-packages/urdf-tutorial-r2d2.egg-link (link to .)
+[0.771s] Installing state_publisher script to /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/lib/urdf_tutorial_r2d2
+[0.772s] 
+[0.772s] Installed /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2
+[0.772s] running symlink_data
+[0.772s] creating /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/share/ament_index
+[0.772s] creating /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/share/ament_index/resource_index
+[0.772s] creating /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/share/ament_index/resource_index/packages
+[0.772s] symbolically linking /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2/resource/urdf_tutorial_r2d2 -> /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/share/ament_index/resource_index/packages
+[0.772s] symbolically linking /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2/package.xml -> /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/share/urdf_tutorial_r2d2
+[0.772s] creating /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/share/urdf_tutorial_r2d2/launch
+[0.772s] symbolically linking /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2/launch/demo.launch.py -> /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/share/urdf_tutorial_r2d2/launch
+[0.797s] Invoked command in '/home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2' returned '0': PYTHONPATH=/home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/install/urdf_tutorial_r2d2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/anibunny/ros_intermediate/src/urdf_tutorial_r2d2/build/urdf_tutorial_r2d2/build --no-deps symlink_data
